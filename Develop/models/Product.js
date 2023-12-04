@@ -43,11 +43,6 @@ Product.init(
       }
     }
   
-    
-    
-    
-    
-    
   },
   {
     sequelize,
