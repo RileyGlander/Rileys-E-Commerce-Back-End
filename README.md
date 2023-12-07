@@ -3,7 +3,7 @@
 ## Description
 - What was your motivation? My motivation was trying to create a e-commerce back end project to learn more about creating a online retail platform. It was a great way to manage and interact with a database as well as handle models, routes and seeds.
 
-- Why did you build this project? I built this project to create a back end e-commerce application. I was glad to have learned more about database modeling, API routes, and ORM while creating a platform that can handle user authentication, product management, and order processing.  Although I encountered challenges in implementing these features in my project, I gained experience from the process
+- Why did you build this project? I built this project to create a back end e-commerce application. I was glad to have learned more about database modeling, API routes, and ORM while creating a platform that can handle user authentication, product management, and order processing.  Although I encountered challenges in implementing these features in my project, I gained experience from the process.
 
 - What problem does it solve? This project solves the problem of managing and organizing data for an e-commerce platform. By learning about database schema design and ORM techniques, I gained a better understanding of how to store and retrieve product information, handle user authentication and authorization, and process orders.
 
@@ -30,7 +30,7 @@ Xpert Learning Assistant. (2023). Full Stack Application Development Course Disc
 
 OpenAI. (2023). ChatGPT. Conversation with ChatGPT on coding and Sequelize associations. Accessed December 4, 2023, from https://chat.openai.com/chat.
 
-Special thanks to the AskBCS Learning Assistants, Mampuru, and Sangeetha for their valuable assistance and support."
+Special thanks to the AskBCS Learning Assistants, Mampuru, and Sangeetha for their valuable assistance and support.
 
 ## License
 N/A
